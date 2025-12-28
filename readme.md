@@ -216,6 +216,11 @@ balanceOf(address)
 * 토큰 이코노미 설계 (mint / burn / cap)
 
 ---
+## 12. 판매자가 WithDraw 전에 구매자가 납부한 대금은 어디에?
+
+* SaleToken Contract 주소를 Sepolia Explorer에서 조회 하면 ETH 수량이 확인됨
+* WithDraw 기능이 없다면 영원히 자금이 묶일수있음
+* WithDraw 하면 해당 컨트랙트를 배포한 Owner의 EOA 지갑으로 인출됨
 
 > 이 문서는 **실습 기반 학습 기록**이며, 실제 메인넷 배포 전에는 보안 검토가 반드시 필요함.
 
