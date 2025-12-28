@@ -229,7 +229,7 @@ balanceOf(address)
 
 <img width="450" height="350" alt="Image" src="https://github.com/user-attachments/assets/566cdf89-5fa8-4bde-a040-228d94689a3a" />
 
-
+---
 
 
 > 이 문서는 **실습 기반 학습 기록** 이며, GIWA Sepolia 체인에서 학습함
