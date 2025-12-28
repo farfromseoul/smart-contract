@@ -78,6 +78,8 @@
 ### 가격 정책 예시
 
 ```
+1 ETH = 1000,000,000 Gwei
+1 ETH = 1000,000,000,000,000,000 Wei
 1 GTG = 0.000001 ETH = 1000 gwei
 ```
 
@@ -230,6 +232,12 @@ balanceOf(address)
 <img width="450" height="350" alt="Image" src="https://github.com/user-attachments/assets/566cdf89-5fa8-4bde-a040-228d94689a3a" />
 
 ---
+> **참고**
+```
+MyToken Contract Address(Public)
+0x197680CEbAc0716F8879C2cCbb85a1B968033CB3
 
-
+SalesToken Contract Address(Public)
+0x1e4aA5A735090dc3Cd6fc45ae423C011E213c6FC
+```
 > 이 문서는 **실습 기반 학습 기록** 이며, GIWA Sepolia 체인에서 학습함
