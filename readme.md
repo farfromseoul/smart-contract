@@ -222,5 +222,14 @@ balanceOf(address)
 * WithDraw 기능이 없다면 영원히 자금이 묶일수있음
 * WithDraw 하면 해당 컨트랙트를 배포한 Owner의 EOA 지갑으로 인출됨
 
-> 이 문서는 **실습 기반 학습 기록**이며, 실제 메인넷 배포 전에는 보안 검토가 반드시 필요함.
 
+## 13. Seller(Owner), Buyer EOA Account Status
+
+<img width="450" height="350" alt="Image" src="https://github.com/user-attachments/assets/09034e5a-9d2d-4610-b8ca-333603cc83ba" />
+
+<img width="450" height="350" alt="Image" src="https://github.com/user-attachments/assets/566cdf89-5fa8-4bde-a040-228d94689a3a" />
+
+
+
+
+> 이 문서는 **실습 기반 학습 기록** 이며, GIWA Sepolia 체인에서 학습함
